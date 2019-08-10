@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{128:function(n,t,e){"use strict";e.r(t);var r=e(0),s=Object(r.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\r\n    我是首页\r\n")])},[],!1,null,null,null);t.default=s.exports}}]);
